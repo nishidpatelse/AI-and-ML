@@ -24,24 +24,6 @@ This SEO AI Agent is designed specifically for Shopify websites. It helps busine
 
 ## Directory Structure
 
-```
-shopify_seo_ai_agent/
-├── agent/
-│   ├── __init__.py
-│   └── seo_agent.py
-├── utils/
-│   ├── __init__.py
-│   ├── shopify_api.py
-│   ├── google_api.py
-│   ├── seo_audit.py
-│   └── competitor_analysis.py
-├── data/
-├── logs/
-├── reports/
-├── main.py
-└── README.md
-```
-
 
 Ensure API credentials and configurations are properly set in environment variables or config files.
 
