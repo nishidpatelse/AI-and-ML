@@ -1,0 +1,10 @@
+default_user: student123
+default_course: math101
+
+recommendation_engine:
+  type: basic
+  update_frequency: weekly
+
+habit_tracker:
+  min_sessions: 10
+  session_threshold_min: 30
