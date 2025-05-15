@@ -1,0 +1,18 @@
+[
+    {
+        "id": "truck_1",
+        "type": "Truck",
+        "mileage": 12000,
+        "last_oil_change": 8000,
+        "last_tire_change": 5000,
+        "last_service_date": "2024-11-01"
+    },
+    {
+        "id": "van_3",
+        "type": "Van",
+        "mileage": 4500,
+        "last_oil_change": 2000,
+        "last_tire_change": 3000,
+        "last_service_date": "2025-02-10"
+    }
+]
