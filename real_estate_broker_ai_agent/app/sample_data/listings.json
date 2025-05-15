@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "apartment",
+    "location": "New York",
+    "price": 3000,
+    "bhk": 2,
+    "size": 900,
+    "facilities": ["gym", "pool", "parking"],
+    "pet_friendly": "yes"
+  },
+  {
+    "id": 2,
+    "type": "villa",
+    "location": "Los Angeles",
+    "price": 5000,
+    "bhk": 3,
+    "size": 1500,
+    "facilities": ["gym", "parking"],
+    "pet_friendly": "no"
+  }
+]
